@@ -1,0 +1,9 @@
+__pycache__/
+transcribed_data/
+textGrid_data/
+word_level_data/
+.word_f0_runtime/node_modules/
+.word_f0_runtime/manifest.json
+.word_f0_runtime/*.tsv
+.word_f0_runtime/*.png
+*.xlsx.inspect.ndjson

@@ -1,0 +1,10 @@
+name: ExperimentalApp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - tk=8.6
+  - pip
+  - pip:
+      - faster-whisper>=1.1,<2
+      - requests>=2.31,<3
